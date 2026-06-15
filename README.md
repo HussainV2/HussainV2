@@ -2,6 +2,7 @@
 
 <h2>📜 Certificaitions:</h2>
 
+- CompTIA Cybersecurity Analyst (CySA+)
 - CompTIA Security+
 - AWS Certified Cloud Practitioner
 - LetsDefend SOC Analyst
